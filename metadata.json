@@ -1,0 +1,6 @@
+{
+  "name": "SIAMI - Sistem Informasi Audit Mutu Internal UNIMEN",
+  "description": "Sistem Informasi Audit Mutu Internal Universitas Muhammadiyah Enrekang berbasis Permendiktisaintek No. 39 Tahun 2025 dan Siklus SPMI PPEPP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
